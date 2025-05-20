@@ -67,7 +67,7 @@ Hello, this is Ishita Singh. Committed to continuous learning and excellence wit
 ## 🏆 GitHub Trophies
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ishita-si&theme=discord&no-frame=true&title=Followers,Stars,Commits,Repositories,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ishita-si&theme=discord&no-frame=true&title=Followers,Stars,Commits,Repositories,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
