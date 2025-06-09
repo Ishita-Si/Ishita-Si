@@ -9,6 +9,7 @@
 </p>
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=Ishita-Si&style=flat-square)
 
 ## 👨‍💻 About Me
 
