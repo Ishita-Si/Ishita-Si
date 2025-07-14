@@ -1,11 +1,11 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=250&section=header&text=Hello%20I'm%20Ishita%20Singh&fontSize=40&fontAlignY=35&desc=Web%20Developer%20%7C%20Data%20Analyst%20%7C%20AI-ML%20Enthusiast&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=250&section=header&text=Hello%20I'm%20Ishita%20Singh&fontSize=40&fontAlignY=35&desc=AI-ML%207C20%&Frontend20%Developer20%&descAlignY=60" />
 </p>
 
 <!-- Typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Web+Developer;Data+Analyst;AI+%26+ML+Explorer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=AI+%26+ML+&+Frontend+Developer" />
 </p>
 
 ---
