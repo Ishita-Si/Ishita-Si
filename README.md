@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=250&section=header&text=Hello%20I'm%20Ishita%20Singh&fontSize=40&fontAlignY=35&desc=AI-ML%20&Frontend%20Developer%20&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=250&section=header&text=Hello%20I'm%20Ishita%20Singh&fontSize=40&fontAlignY=35&desc=AI-ML%20&%20Frontend%20Developer%20&descAlignY=60" />
 </p>
 
 <!-- Typing effect -->
