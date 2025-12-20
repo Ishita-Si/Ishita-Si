@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=250&section=header&text=Hello%20I'm%20Ishita%20Singh&fontSize=40&fontAlignY=35&" />  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=D7708B&height=250&section=header&text=Hello%20I'm%20Ishita%20Singh&fontSize=50&fontAlignY=40&" />  
 </p>
 
 <!-- Typing effect -->
@@ -9,15 +9,18 @@
 </p>
 
 ---
+
+<img align="right" src="https://raw.githubusercontent.com/Ishita-Si/Ishita-Si/main/assets/smile.png" width="220"/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Ishita-Si&style=flat-square)
 
-## 👨‍💻 About Me
+<p>🫧 About Me</p>
 
 Hello, this is Ishita Singh. Committed to continuous learning and excellence within the tech community. 
 
 ---
 
-## 🛠️ Tech Stack
+<p>🧁 Tech Stack</p> 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -48,45 +51,49 @@ Hello, this is Ishita Singh. Committed to continuous learning and excellence wit
 
 ---
 
-## 📈 GitHub Stats
+## 🍵 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ishita-si&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishita-si&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishita-si&theme=tokyonight" />
 </p>
-
+<img align="left" src="https://raw.githubusercontent.com/Ishita-Si/Ishita-Si/main/assets/scratch.png" width="220"/>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishita-si&theme=tokyonight" />
 </p>
 
 ---
 
-## 💻 Most Used Languages
+## 🌼 Most Used Languages
 
+<img align="right" src="https://raw.githubusercontent.com/Ishita-Si/Ishita-Si/main/assets/playing.png" width="220"/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishita-si&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🫧 GitHub Trophies
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ishita-si&theme=discord&no-frame=true&title=Followers,Stars,Commits,Repositories,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="center">
+  <img src="https://img.shields.io/github/followers/ishita-si?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/ishita-si?label=Stars&style=for-the-badge" />
+  <img src="https://img.shields.io/github/repo-size/ishita-si/ishita-si?label=Repo+Size&style=for-the-badge" />
+</p>
 
 ---
 
-## 🚀 Top Contributed Repos
-
+## 🌷 Top Contributed Repos
+<img align="right" src="https://raw.githubusercontent.com/Ishita-Si/Ishita-Si/main/assets/cat.png" width="420"/>
 
 [![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=ishita-si&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/hisamafahri/github-contributor-stats/)
 
 
+
 ---
 
 
-## 🌐 Connect With Me
+# 🫧 Connect With Me
 
 <p align="center">
   <a href="mailto:lilyslifespiffing09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
