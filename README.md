@@ -59,7 +59,7 @@ Hello, this is Ishita Singh. Committed to continuous learning and excellence wit
 </p>
 <img align="left" src="https://raw.githubusercontent.com/Ishita-Si/Ishita-Si/main/assets/scratch.png" width="220"/>
 <p align="right">
-  <img width="75%"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishita-si&theme=tokyonight" />
+  <img width="70%"src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishita-si&theme=tokyonight" />
 </p>
 
 ---
