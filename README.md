@@ -58,7 +58,7 @@ Hello, this is Ishita Singh. Committed to continuous learning and excellence wit
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ishita-si&theme=tokyonight" />
 </p>
 <img align="left" src="https://raw.githubusercontent.com/Ishita-Si/Ishita-Si/main/assets/scratch.png" width="220"/>
-<p align="center">
+<p align="right">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishita-si&theme=tokyonight" />
 </p>
 
