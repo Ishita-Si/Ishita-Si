@@ -84,7 +84,7 @@ Hello, this is Ishita Singh. Committed to continuous learning and excellence wit
 ---
 
 ## 🌷 Top Contributed Repos
-<img align="right" src="https://raw.githubusercontent.com/Ishita-Si/Ishita-Si/main/assets/cat.png" width="320"/>
+<img align="right" src="https://raw.githubusercontent.com/Ishita-Si/Ishita-Si/main/assets/cat.png" width="300"/>
 
 [![Contributor Stats](https://github-contributor-stats.vercel.app/api?username=ishita-si&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/hisamafahri/github-contributor-stats/)
 
