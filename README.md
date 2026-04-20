@@ -17,7 +17,7 @@
 <p>🫧 About Me</p>
 
 Hello, this is Ishita Singh. Committed to continuous learning and excellence within the tech community. 
-</br><a href="https://systemwithasoul.vercel.app/">Visit My Portfolio</a>
+</br><a href="https://systemwithsoul.netlify.app/">Visit My Portfolio</a>
 
 ---
 
