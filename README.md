@@ -158,12 +158,21 @@ Hello, I'm **Ishita Singh** — an AI/ML developer passionate about building int
 </p>
 
 ---
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/github-user-contribution (3).svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assets/github-user-contribution (3).svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="./assets/github-user-contribution (3).svg"
+  />
 
+</picture>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
