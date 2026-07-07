@@ -98,13 +98,12 @@ Hello, I'm **Ishita Singh** — an AI/ML developer passionate about building int
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ishita-si&show_icons=true&theme=tokyonight&count_private=true&border_color=0891b2" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishita-si&theme=tokyonight&ring=22d3ee&fire=0891b2&currStreakLabel=22d3ee" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=ishita-si&theme=tokyonight&ring=22d3ee&fire=0891b2&currStreakLabel=22d3ee" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishita-si&theme=tokyonight" width="96%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishita-si&theme=tokyonight" width="96%" />
 </p>
-
 ---
 
 ## 🌼 Most Used Languages
