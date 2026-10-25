@@ -168,15 +168,15 @@ Hello, I'm **Ishita Singh** — an AI/ML developer passionate about building int
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="./assets/github-user-contribution (3).svg"
+    srcset="./assets/github-user-contribution (2).svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="./assets/github-user-contribution (3).svg"
+    srcset="./assets/github-user-contribution (2).svg"
   />
   <img
     alt="GitHub contribution snake"
-    src="./assets/github-user-contribution (3).svg"
+    src="./assets/github-user-contribution (2).svg"
   />
 
 </picture>
